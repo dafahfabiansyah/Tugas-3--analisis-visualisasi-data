@@ -1,7 +1,7 @@
 library(shiny)
 library(readxl)
 library(ggplot2)
-library(dplyr)      # load dplyr sebelum plotly agar filter() tidak tertimpa
+library(dplyr)      
 library(plotly)
 library(DT)
 
